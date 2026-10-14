@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&lines=AI+%26+Machine+Learning+Developer;NLP+%26+Computer+Vision+Enthusiast;Creator+of+SwiftCV+-+Free+ATS+Resume+Builder;Always+Learning)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=IMRAN-stack53&label=Profile+Views&color=0891b2&style=flat-square)
-![Followers](https://img.shields.io/github/followers/IMRAN-stack53?label=Followers&style=flat-square&color=0891b2)
-![Stars](https://img.shields.io/github/stars/IMRAN-stack53?label=Total+Stars&style=flat-square&color=f59e0b&affiliations=OWNER)
+![Profile Views](https://komarev.com/ghpvc/?username=imran-shar&label=Profile+Views&color=0891b2&style=flat-square)
+![Followers](https://img.shields.io/github/followers/imran-shar?label=Followers&style=flat-square&color=0891b2)
+![Stars](https://img.shields.io/github/stars/imran-shar?label=Total+Stars&style=flat-square&color=f59e0b&affiliations=OWNER)
 
 ## About Me
 
@@ -32,7 +32,7 @@ class ImranShar:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/imran-shar-946106374)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:imranshar122@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/IMRAN-stack53)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/imran-shar)
 [![SwiftCV](https://img.shields.io/badge/SwiftCV-6366F1?style=flat-square&logo=googlechrome&logoColor=white)](https://swiftcv.neocities.org)
 
 ## Tech Stack
@@ -53,19 +53,19 @@ class ImranShar:
 
 | Project | Description | Tech Stack |
 |:---:|---|:---:|
-| [**SwiftCV**](https://github.com/IMRAN-stack53/swiftcv) | Free ATS-friendly resume & cover letter builder - 4 templates, ATS scoring, JD keyword matcher, Bullet Coach. [Live site](https://swiftcv.neocities.org) | `JavaScript` `HTML/CSS` |
-| [**DSA Labs**](https://github.com/IMRAN-stack53/AVLTree) | Data structures & algorithms labs in Java - AVL trees, linked lists, sorting & more | `Java` |
+| [**SwiftCV**](https://github.com/imran-shar/swiftcv) | Free ATS-friendly resume & cover letter builder - 4 templates, ATS scoring, JD keyword matcher, Bullet Coach. [Live site](https://swiftcv.neocities.org) | `JavaScript` `HTML/CSS` |
+| [**DSA Labs**](https://github.com/imran-shar/AVLTree) | Data structures & algorithms labs in Java - AVL trees, linked lists, sorting & more | `Java` |
 
 ## GitHub Statistics
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=IMRAN-stack53&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=ff6b35&currStreakLabel=00D9FF&border_radius=12)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=imran-shar&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=ff6b35&currStreakLabel=00D9FF&border_radius=12)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=IMRAN-stack53&theme=tokyonight&hide_border=true&show_icons=true&border_radius=12)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMRAN-stack53&theme=tokyonight&hide_border=true&layout=compact&border_radius=12)
+![Stats](https://github-readme-stats.vercel.app/api?username=imran-shar&theme=tokyonight&hide_border=true&show_icons=true&border_radius=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imran-shar&theme=tokyonight&hide_border=true&layout=compact&border_radius=12)
 
 ## Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IMRAN-stack53&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&line=00D9FF&point=ffffff&bg_color=0D1117)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=imran-shar&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&line=00D9FF&point=ffffff&bg_color=0D1117)
 
 ## Random Dev Quote
 
